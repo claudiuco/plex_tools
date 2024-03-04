@@ -3,7 +3,7 @@
 ## Intro
 Once upon a time, there was a guy that tried very hard to add music to his Plex Media Server. It ended up very dissapointed, not being able to see his favourite tracks in what he called "no more Spotify, Apple Music or other crap". A big fan of selfhosted apps, our hero emabarked in his journey looking for a "explain like I'm 5" tutorial, but no luck. But because he managed to get through this after several hours of hardworking, pain and sweat, $username decided to share with other peeps a streamlined process of adding music to a Plex Media Server. 
 
-And because he believes in the free will of humanity, three versions of the same script were added in this repo in Powershell, Python and bash.
+And because he believes in the free will of humanity, two versions of the samee script were added in this repo in Powershell and Python (covering both Windows and Linux users needs).
 
 Feel free to change the scripts, but please respect our hero's work and _fork_ them. It will show a great deal of appreciation :) 
 
